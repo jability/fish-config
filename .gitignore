@@ -1,0 +1,7 @@
+
+#fish
+fishd*
+completions/*
+functions/__*
+functions/fish_prompt.fish
+functions/fisher.fish
